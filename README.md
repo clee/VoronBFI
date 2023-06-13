@@ -63,3 +63,12 @@ For Doomcube, you'll need:
 - 4x 5mm-diameter pin, 22mm long
 
 You'll reuse the existing M5×25 BHCS and roll-in M5 nuts for mounting to the frame, as well as the 20T toothed idlers from the original stock Z idlers.
+
+# Whose fault is all this anyway?
+
+- @clee, initial prototype
+- @bythorsthunder, early feedback and testing
+- @KayosMaker, first port to V2.4
+- @hartk1213, Micron and Doom 
+
+While not directly built upon it, this design is definitely inspired by @Ramalama2's front idlers.
