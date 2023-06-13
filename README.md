@@ -6,19 +6,60 @@ These idlers were designed with one core principle: use belt tension to *compres
 
 This design is available for Voron Trident, Voron 2.4, Salad Fork, and Micron.
 
+## BFI for Trident
+
 For Trident, you'll need:
-- 4x M5x40 SHCS (or you can use M5×30 BHCS, you'll just have less adjustable tension range)
-- 4x M5 hex nuts
-- 2x 5mm-diameter pin, 18mm long
+- 4× M5×40 SHCS
+- 4× M5 hex nuts
+- 2× 5mm-diameter pin, 18mm long
+
+## BFI for Voron 2.4
 
 For V2.4, you'll need:
-- 4x M5x30 BHCS 
-- 4x M5 hex nuts
-- 2x 5mm-diameter pin, 18mm long
+- 4× M5×30 BHCS 
+- 4× M5 hex nuts
+- 2× 5mm-diameter pin, 18mm long
+
+## BFI for Ants
 
 For Salad Fork and Micron, you'll need:
-- 4x M3x20 BHCS
-- 4x standard Voron M3x5x4 heatset inserts (5mm outer diameter, 4mm deep)
-- 2x M3x12 SHCS
+- 4× M3×20 BHCS
+- 4× standard Voron M3x5x4 heatset inserts (5mm outer diameter, 4mm deep)
+- 2× M3×12 SHCS
 
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
+
+### But wait, there's more!
+
+The same carriage design has also been applied to work with Micron, Voron 2.4, and Doomcube Z idlers.
+
+# BZI (Beefy Z Idlers)
+
+![](images/BZI.png)
+
+## BZI for Voron 2.4
+
+For V2.4, you'll need:
+- 8× M5 hex nuts
+- 8× M5×40 SHCS
+- 4× 5mm-diameter pin, 22mm long
+
+You'll reuse the existing M5×30 BHCS and roll-in M5 nuts for mounting to the frame, as well as the 20T toothed idlers from the original stock Z idlers.
+
+## BZI for Micron
+
+For Micron, you'll need: 
+- 8× M3 hex nuts
+- 8× M3×30 BHCS
+- 4× M3×12 SHCS
+
+You'll reuse the existing M3×20 BHCS and preloaded M3 hex nuts for mounting to the frame, as well as the shim/bearing stack setup from the original stock Z idlers.
+
+## BZI for Doomcube
+
+For Doomcube, you'll need:
+- 8× M5 hex nuts
+- 8× M5×40 SHCS
+- 4x 5mm-diameter pin, 22mm long
+
+You'll reuse the existing M5×25 BHCS and roll-in M5 nuts for mounting to the frame, as well as the 20T toothed idlers from the original stock Z idlers.
