@@ -13,12 +13,16 @@ For Trident, you'll need:
 - 4× M5 hex nuts
 - 2× 5mm-diameter pin, 18mm long
 
+...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
+
 ## BFI for Voron 2.4
 
 For V2.4, you'll need:
 - 4× M5×30 BHCS 
 - 4× M5 hex nuts
 - 2× 5mm-diameter pin, 18mm long
+
+...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
 ## BFI for Ants
 
