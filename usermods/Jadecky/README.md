@@ -1,20 +1,37 @@
-## [BZI for Micron Pin Mod](https://github.com/clee/VoronBFI/tree/main/usermods/Jadecky/STLs/Pin%20Mod)
+#### Thanks to HartK for the orignal Pin Mod, and Staticanime for testing and feedback on these mods.
 
-![](https://github.com/clee/VoronBFI/blob/main/usermods/Jadecky/Images/Pin_Mod.png)
+## [BZI for Micron Pin Mod](https://github.com/clee/VoronBFI/tree/main/usermods/Jadecky/STLs/Pin%20Mod_Micron/BZI)
+
+![](https://github.com/clee/VoronBFI/blob/main/usermods/Jadecky/Images/BZI_Pin_Mod.png)
 
 Pin mod for Micron BZI.
+
 Replaces:
+
 - ```4× M3×12 SHCS``` 
 
-with 
+with:
 
 - ```4x 3x18mm Pins```
 
 I ground down my original 3x20mm pins from the original Micron Pin Mod.
 
-#### Thanks to HartK for the orignal Pin Mod, and Staticanime for testing these.
+## [BFI for Micron Pin Mod](https://github.com/clee/VoronBFI/tree/main/usermods/Jadecky/STLs/Pin%20Mod_Micron/BFI)
 
-## [Non Symmetrical Bodies](https://github.com/clee/VoronBFI/tree/main/usermods/Jadecky/STLs/Non%20Symmetrical%20Bodies)
+![](https://github.com/clee/VoronBFI/blob/main/usermods/Jadecky/Images/BFI_Pin_Mod.png)
+
+Pin mod for Micron BFI.
+
+Replaces:
+
+-```2x M3x12SHCS```
+
+with:
+
+-```2x 3x15mm Pins```
+
+
+## [Non Symmetrical Bodies](https://github.com/clee/VoronBFI/tree/main/usermods/Jadecky/STLs/Non%20Symmetrical%20BZI%20Idler%20Bodies)
 
 ![](https://github.com/clee/VoronBFI/blob/main/usermods/Jadecky/Images/Non_Symetrical.png)
 
