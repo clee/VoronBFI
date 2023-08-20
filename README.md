@@ -21,6 +21,8 @@ For V2.4, you'll need:
 - 4× M5×30 BHCS 
 - 4× M5 hex nuts
 - 2× 5mm-diameter pin, 18mm long
+- 2× M3 t-nuts
+- 2× M3×16 BHCS
 
 ...plus the same shim/bearing stack setup for each idler as the original stock front idlers.
 
