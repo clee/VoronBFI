@@ -29,7 +29,7 @@ For V2.4, you'll need:
 ## BFI for Ants
 
 For Salad Fork and Micron, you'll need:
-- 4× M3×20 BHCS
+- 4× M3×25 BHCS
 - 4× standard Voron M3x5x4 heatset inserts (5mm outer diameter, 4mm deep)
 - 2× M3×12 SHCS
 
