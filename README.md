@@ -1,10 +1,20 @@
 # BFI (Beefy Front Idlers)
 
-![](images/BFI.png)
+![BFI family render](images/BFI.png)
 
-These idlers were designed with one core principle: use belt tension to *compress* printed layers instead of splitting or pulling them apart.
+### What?
+
+These are replacement front idlers for Vorons (and Voron-based machines) designed with one core principle: use belt tension to *compress* printed layers instead of splitting or pulling them apart.
 
 This design is available for Voron Trident, Voron 2.4, Salad Fork, and Micron.
+
+### Why?
+
+Using BFI means you should never have to deal with this kind of heartbreak again.
+
+Stock | Rama's
+--- | ---
+![cracked stock front idler](images/cracked_stock.jpg) | ![cracked Rama's front idler](images/cracked_rama.jpg)
 
 ## BFI for Trident
 
@@ -28,7 +38,12 @@ For V2.4, you'll need:
 
 ## BFI for Ants
 
-For Salad Fork and Micron, you'll need:
+For Salad Fork, you'll need:
+- 4× M3×25 BHCS
+- 4× standard Voron M3x5x4 heatset inserts (5mm outer diameter, 4mm deep)
+- 2× M3×12 SHCS
+
+For Micron, you'll need:
 - 4× M3×20 BHCS
 - 4× standard Voron M3x5x4 heatset inserts (5mm outer diameter, 4mm deep)
 - 2× M3×12 SHCS
