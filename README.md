@@ -72,7 +72,7 @@ You'll reuse the existing M5×30 BHCS and roll-in M5 nuts for mounting to the fr
 For Micron, you'll need: 
 - 8× M3 hex nuts
 - 8× M3×30 BHCS
-- 4× M3×12 SHCS
+- 4× M3×16 SHCS
 
 You'll reuse the existing M3×20 BHCS and preloaded M3 hex nuts for mounting to the frame, as well as the shim/bearing stack setup from the original stock Z idlers.
 
