@@ -10,3 +10,4 @@
 |Mosher|[BZI Light](https://github.com/clee/VoronBFI/tree/main/usermods/Mosher/BZI%20Light%20Idlers)| Slimmed down wersion of BZI uses shorter man body screws and 2x M3 for carrier. Great variety of versions.
 |MikeYankeeOscarBeta|[9MM BFI](./MikeYankeeOscarBeta/)| 9mm BFI. Using 5x22mm pins
 |Tetsu|[Symmetrical BFI](./Tetsu/Symetrical%20BFI/)| Symmetrical BFI parts with options for M3 & M5 hardware & BFI front logos
+|DonaldSayers|[45 Degree Housing](./DonaldSayers/)| Made the housing a bit easier to print the overhang. Mostly print aesthetics.
