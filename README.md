@@ -85,6 +85,10 @@ For Doomcube, you'll need:
 
 You'll reuse the existing M5×25 BHCS and roll-in M5 nuts for mounting to the frame, as well as the 20T toothed idlers from the original stock Z idlers.
 
+## One more thing
+
+There are also a bunch of [usermods](usermods/) for BFI. If you have non-Gates idlers, or you want Voron logos, or wish BFI were more symmetrical… might want to check them out!
+
 # Whose fault is all this anyway?
 
 - @clee, initial prototype
