@@ -1,6 +1,6 @@
 # F625 Bearing Mod
 
-A simple conversion that replaces toothed idlers with a smooth 20T GT2 pulley running on F625 bearings. This modification provides an easy upgrade path from Annex Redoubt style idlers to BZI's.
+A simple conversion that replaces the toothed idler with a 20T GT2 pulley running on F625 bearings. This modification provides an easy migration path from Annex Redoubt style idlers to BZI's.
 
 <img src="./images/render.png" alt="20T Pulley Idler Assembly" width="600"/>
 
